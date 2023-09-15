@@ -1,11 +1,17 @@
-# captcha-for-commandline
+# Captcha for Commandline
 
 Here you can find a few commandline-based CAPTCHAs.
 
 ## Usage
 
+Test `ascii2art_based_captcha.php`:
 ```bash
 php ascii2art_based_captcha.php
+```
+
+Test `ascii2art_based_captcha_new_implementation.php`:
+```bash
+php ascii2art_based_captcha_new_implementation.php
 ```
 
 ## Requirements
